@@ -1,9 +1,0 @@
-ru\nonoka\servicefactorial\exception\ExceptionBody.class
-ru\nonoka\servicefactorial\ServiceFactorialApplication.class
-ru\nonoka\servicefactorial\service\FactorialService.class
-ru\nonoka\servicefactorial\configuration\TimedConfiguration.class
-ru\nonoka\servicefactorial\controller\ControllerAdvice.class
-ru\nonoka\servicefactorial\service\impl\FactorialServiceImpl.class
-ru\nonoka\servicefactorial\controller\FactorialController.class
-ru\nonoka\servicefactorial\model\JsonRequest.class
-ru\nonoka\servicefactorial\dto\JsonResponse.class
