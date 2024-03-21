@@ -25,8 +25,8 @@
 При вводе числа < 0 или > 39 выдаст ошибку.
 
 Сбор метрик:
-Prometheus http://localhost:8080/actuator/prometheus
-Grafana http://localhost:3000/login	admin:admin
+- Prometheus http://localhost:8080/actuator/prometheus
+- Grafana http://localhost:3000/login	admin:admin
 
 В Grafana встроены dashbords:
 - первый с JVM'мом
