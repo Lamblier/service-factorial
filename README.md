@@ -27,13 +27,14 @@
 Сбор метрик:
 Prometheus http://localhost:8080/actuator/prometheus
 Grafana http://localhost:3000/login	admin:admin
+
 В Grafana встроены dashbords:
 - первый с JVM'мом
 - второй с процессом выполнения
 
 Для запуска приложения, проект нужно склонировать.
 
-Скрипты находятся в папке scripts
+Скрипты находятся в папке scripts, docker команды нужно запускать из каталога scripts
 
 Для создания image приложения необходимо выполнить команду docker build -t service-factorial:latests .
 
